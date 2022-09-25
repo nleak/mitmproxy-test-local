@@ -1,0 +1,15 @@
+{
+  "name": "mitmproxy-test-local",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mitmproxy": "https://github.com/nleak/mitmproxy-node.git#update_websockets"
+  }
+}
