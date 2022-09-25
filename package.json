@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mitmproxy": "https://github.com/nleak/mitmproxy-node.git#update_websockets"
+    "mitmproxy": "^2.1.2"
   }
 }
